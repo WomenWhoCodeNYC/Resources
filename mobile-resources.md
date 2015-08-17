@@ -1,7 +1,7 @@
 #Mobile Resources
 
 
-**iOS**
+**iOS**  
 To develop iOS apps, you'll need Xcode: https://developer.apple.com/xcode/downloads/
 
 * iOS: Swift
@@ -13,7 +13,7 @@ To develop iOS apps, you'll need Xcode: https://developer.apple.com/xcode/downlo
 
 ---
 
-**Android**
+**Android**  
 To develop Android apps, you'll need Android Studio: https://developer.android.com/sdk/index.html
 
 1. Google's "Getting Started" guide for Android Developers: https://developer.android.com/training/index.html
