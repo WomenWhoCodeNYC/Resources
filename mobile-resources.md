@@ -4,13 +4,16 @@
 **iOS**  
 To develop iOS apps, you'll need Xcode: https://developer.apple.com/xcode/downloads/
 
+Start Developing iOS Apps Today:
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html#//apple_ref/doc/uid/TP40011343
+
 * iOS: Swift
 1. Video: Building Your First Swift App https://developer.apple.com/swift/blog/?id=16
 2. Introduction to Swift language video from Apple WWDC 2014: https://www.youtube.com/watch?v=A0C6L4XmrZ or https://developer.apple.com/videos/wwdc/2014/?include=402#402
 3. Intermediate Swift video from Apple WWDC 2014: https://www.youtube.com/watch?v=W1s9ZjDkSN0 or https://developer.apple.com/videos/wwdc/2014/?include=403#403
 4. Advanced Swift video from Apple WWDC 2014: https://www.youtube.com/watch?v=g44U1937o0g or https://developer.apple.com/videos/wwdc/2014/?include=404#404
 5. Team Treehouse: https://teamtreehouse.com/tracks/ios-development-with-swift
-6. 
+
 
 *iOS: Objective-C
 
@@ -20,6 +23,7 @@ To develop iOS apps, you'll need Xcode: https://developer.apple.com/xcode/downlo
 4. Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition): http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X/ref=sr_1_1?s=books&ie=UTF8&qid=1440459142&sr=1-1&keywords=objective+c&pebp=1440459145149&perid=0AX7W4FGDD464TBJAAYZ
 5. iOS Programming: The Big Nerd Ranch Guide (4th Edition):  http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051
 6. Team Treehouse: http://teamtreehouse.com/tracks/ios-development-with-objectivec
+
 
 
 ---
