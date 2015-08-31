@@ -64,7 +64,7 @@ If you're just starting off, learn HTML and CSS first - you'll need to be comfor
     - **[Ember Weekly](http://emberweekly.com/)** - for the latest Ember news, articles, and tutorials.
 
   - **[React](http://facebook.github.io/react/)**
-    - *Video: [React Fundamentals](https://egghead.io/series/react-fundamentals) (Egghead.io)**
+    - **Video: [React Fundamentals](https://egghead.io/series/react-fundamentals) (Egghead.io)**
     - **[React Flux](https://egghead.io/series/react-flux-architecture) (Egghead.io)** - learn practical, real-world React development.
 
   - **[Meteor](https://www.meteor.com/) (front-end and back-end platform)**
