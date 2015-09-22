@@ -36,7 +36,7 @@ If you're just starting off, learn HTML and CSS first - you'll need to be comfor
 
 - **Vanilla JavaScript**
   - **[JavaScript Road Trip](https://www.codeschool.com/paths/javascript) (Code School)** - breaks down JavaScript and starts at the beginning for non-programmers (vars, data types, etc.).  *`Requires subscription` after part 1, but it's a great intro if you've never done any programming before.
-  - **[JavaScript Basics](http://teamtreehouse.com/library/javascript-basics) (Team Treehouse)** - Treehouse has tons of JavaScript courses from basics, to OOP, to jQuery, AJAX, Ember, etc.  *`Requires subscription`
+  - **[JavaScript Basics](http://teamtreehouse.com/library/javascript-basics) (Team Treehouse)** - Treehouse has tons of JavaScript courses from basics, to OOP, to jQuery, AJAX, Ember, etc.  *`Requires subscription` or sign up for free with a [Queens Library](https://teamtreehouse.com/gateways/queens_library/signup) (QL card requires NYS address, not just Queens addresses)
   - **[Dash](https://dash.generalassemb.ly/) (General Assembly)** - see HTML/CSS section.
   - **Book: [Eloquent JavaScript](http://eloquentjavascript.net/) (Marijn Haverbeke)** - online book, step-by-step introductions to basic JavaScript.  One of the most frequently recommended books for JavaScript.
   - **Project: [JavaScript and CSS3 Calculator](http://thecodeplayer.com/walkthrough/javascript-css3-calculator) (CodePlayer)** - watch this to see how to make a calculator from start to finish.
