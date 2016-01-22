@@ -16,6 +16,9 @@ Usually consists of a server, application, and database.  The back-end stores in
 ### [Mobile Resources](mobile-resources.md)
 Pretty self-explanatory, these resources are for development on mobile devices.
 
+### [Job Hunting Resources](job-hunting-resources.md)
+Resume tips, algorithms and data structures for interviewing, what CS interviews look like, why you should try OSS, networking. Good luck!
+
 ## Contributing
 
 There are tons of resources out there to learn how to code.  If you find better resources or feel one on this list no longer makes sense just [make a pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request)!
