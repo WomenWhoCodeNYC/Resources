@@ -1,7 +1,7 @@
 #Mobile Resources
 
 
-**iOS**  
+**iOS**
 To develop iOS apps, you'll need Xcode: https://developer.apple.com/xcode/downloads/
 
 Start Developing iOS Apps Today:
@@ -28,13 +28,15 @@ https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapi
 
 ---
 
-**Android**  
+**Android**
 To develop Android apps, you'll need Android Studio: https://developer.android.com/sdk/index.html
 
 1. Google's "Getting Started" guide for Android Developers: https://developer.android.com/training/index.html
 2. Udacity's Android Development for Beginners* (assumes no prior programming knowledge): https://www.udacity.com/course/android-development-for-beginners--ud837
 3. Udacity's Developing Android Apps* (assumes at least 1 year of Object-Oriented programming experience): https://www.udacity.com/course/developing-android-apps--ud853
 4. Team Treehouse Android Track: https://teamtreehouse.com/tracks/android-development
+5. compile ‘android:best:1.1.1’(curated list of Android resources): https://medium.com/android-news/compile-android-best-1-0-0-5f8b470d0ad9#.p9xn5b6h1
+6. AndroidWeekly (newsletter): http://androidweekly.net/
 
 *Udacity course materials can be accessed for free without paying to enroll in the course.
 
