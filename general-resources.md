@@ -17,6 +17,7 @@ Here are resources for coding-related tools and language-independent resources.
 - **Git**
   - **[Try Git](https://try.github.io/levels/1/challenges/1) (Code School)** - a 15 minute challenge that teaches you the basics of Git via in-browser command line.
   - **[Git-it](https://github.com/jlord/git-it) (jlord)** - A workshopper module for learning Git and GitHub.
+  - **[Learn Git Branching](pcottle.github.io/learnGitBranching/) (pcottle)** - An interactive visual tutorial to learn & understand git by completing small challenges.  Great for programmers of all levels!  
   - **Video: [Git & GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)** - a super in-depth course on how to use command line Git and collaborating via GitHub.  A little long, but visually teaches the concepts behind Git and GitHub step-by-step.
 
 
