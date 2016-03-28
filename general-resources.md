@@ -18,9 +18,19 @@ Here are resources for coding-related tools and language-independent resources.
   - **[Try Git](https://try.github.io/levels/1/challenges/1) (Code School)** - a 15 minute challenge that teaches you the basics of Git via in-browser command line.
   - **[Git-it](https://github.com/jlord/git-it) (jlord)** - A workshopper module for learning Git and GitHub.
   - **[Learn Git Branching](pcottle.github.io/learnGitBranching/) (pcottle)** - An interactive visual tutorial to learn & understand git by completing small challenges.  Covers beginner through advanced techniques.  Great for programmers of all levels!
+  - **[WWCodeNYC GitGuide](https://github.com/WomenWhoCodeNYC/Algorithms/blob/master/gitGuide.md#gitguide) (sarahzinger)** - sarahzinger's step by step guide to forking, cloning, and making a pull request! Developed for the WWCodeNYC Algorithms Meetup.
   - **Video: [Git & GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)** - a super in-depth course on how to use command line Git and collaborating via GitHub.  A little long, but visually teaches the concepts behind Git and GitHub step-by-step.
   - **Video: [Git For Ages 4 And Up](  http://www.youtube.com/watch?v=1ffBJ4sVUb4&t=6m45s) (YouTube)** - A very in-depth presentation that uses Tinkertoys to show what happens internally when you use the various Git commands.  (May be a bit obtuse for beginners)
 
+## **Open Source**
+- **Guides to Getting Started**
+  - **[Getting Into Open Source for the First Time](http://www.nearform.com/nodecrunch/first-time-with-open-source/) (Dean McDonnell)** 
+
+- **Find a Project**
+  - **[OS4W](https://www.os4w.org/)** - a resource for connecting women to open source projects that welcome diversity in their contributors and have robust codes of conduct. Filter projects according to language or find a mentor or programming partner.
+  - **[Hacktoberfest](https://hacktoberfest.digitalocean.com/) (DigitalOcean)** - a list of open source projects collected by DigitalOcean for their annual Hacktoberfest challenge. Projects marked by language.
+  - **[Explore GitHub](https://github.com/explore) (GitHub)** - explore projects on GitHub. Scroll down and select "Trending repositoties" to see a list of trending open source projects in the GitHub community.
+  - **[OpenHatch](https://openhatch.org/)** - a nonprofit dedicated to matching open source contributors with communities, projects, and education.
 
 
 ## **Code Challenges, Practice, and Technical Interviews**
