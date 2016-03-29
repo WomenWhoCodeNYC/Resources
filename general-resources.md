@@ -38,6 +38,7 @@ Here are resources for coding-related tools and language-independent resources.
 - **[Typing.io](https://typing.io/)** - a typing tutor/trainer for programmers in JavaScript, Ruby, C, C++, Java, PHP, Perl, Haskell, Scala, and more.
 - **[Exercism.io](http://exercism.io)** - practice problems for learning to code with real world feedback from other people on the same assignments.
 - **[Code Wars](http://www.codewars.com)** - practice coding through challenges.
+- **[HackerRank](https://www.hackerrank.com/** - practice coding challenges.
 - **[Project Euler](https://projecteuler.net/)** - "a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve."
 - **[coderbyte](https://coderbyte.com/)** - "a web application built to help people practice their programming skills. The challenges range in difficulty and they can all be completed straight through our online application."
 - **[Programmer Interview](http://www.programmerinterview.com/)** - "helps programmers successfully prepare for technical interviews."
