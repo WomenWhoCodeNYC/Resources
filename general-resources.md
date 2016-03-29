@@ -43,6 +43,7 @@ Here are resources for coding-related tools and language-independent resources.
 - **[coderbyte](https://coderbyte.com/)** - "a web application built to help people practice their programming skills. The challenges range in difficulty and they can all be completed straight through our online application."
 - **[Programmer Interview](http://www.programmerinterview.com/)** - "helps programmers successfully prepare for technical interviews."
 - **[Interview Cake](https://www.interviewcake.com/)** - "a study tool that preps software engineering candidates for coding interviews."
+- **[CodinGame](https://www.codingame.com/home)** - "a coding platform where software developers from around the world can learn, improve and compete through fun online programming games."
 
 ## **Phone a Friend**
   - **[Code Buddies](http://hangouts.codebuddies.org)** - remote peer-to-peer organized study hangouts.  Screensharing/sometimes-audio; no video sharing.
