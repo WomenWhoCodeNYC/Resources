@@ -40,6 +40,7 @@ Here are resources for coding-related tools and language-independent resources.
 - **[Project Euler](https://projecteuler.net/)** - "a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve."
 - **[Programmer Interview](http://www.programmerinterview.com/)** - "helps programmers successfully prepare for technical interviews."
 - **[Interview Cake](https://www.interviewcake.com/)** - "a study tool that preps software engineering candidates for coding interviews."
+- **[CodinGame](https://www.codingame.com/home)** - "a coding platform where software developers from around the world can learn, improve and compete through fun online programming games."
 
 ## **Phone a Friend**
   - **[Code Buddies](http://hangouts.codebuddies.org)** - remote peer-to-peer organized study hangouts.  Screensharing/sometimes-audio; no video sharing.
