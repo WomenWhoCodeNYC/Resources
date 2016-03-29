@@ -31,6 +31,7 @@ Here are resources for coding-related tools and language-independent resources.
   - **[Hacktoberfest](https://hacktoberfest.digitalocean.com/) (DigitalOcean)** - a list of open source projects collected by DigitalOcean for their annual Hacktoberfest challenge. Projects marked by language.
   - **[Explore GitHub](https://github.com/explore) (GitHub)** - explore projects on GitHub. Scroll down and select "Trending repositoties" to see a list of trending open source projects in the GitHub community.
   - **[OpenHatch](https://openhatch.org/)** - a nonprofit dedicated to matching open source contributors with communities, projects, and education.
+  - **[Code Montage](https://www.codemontage.com/)** - a nonprofit dedicated to empowering coders to improve their impact on the world and finding open source projects they care about.
 
 
 ## **Code Challenges, Practice, and Technical Interviews**
