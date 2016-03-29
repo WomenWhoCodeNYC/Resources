@@ -24,7 +24,7 @@ Here are resources for coding-related tools and language-independent resources.
 
 ## **Open Source**
 - **Guides to Getting Started**
-  - **[Getting Into Open Source for the First Time](http://www.nearform.com/nodecrunch/first-time-with-open-source/) (Dean McDonnell)** 
+  - **[Getting Into Open Source for the First Time](http://www.nearform.com/nodecrunch/first-time-with-open-source/) (Dean McDonnell)**
 
 - **Find a Project**
   - **[OS4W](https://www.os4w.org/)** - a resource for connecting women to open source projects that welcome diversity in their contributors and have robust codes of conduct. Filter projects according to language or find a mentor or programming partner.
@@ -37,6 +37,7 @@ Here are resources for coding-related tools and language-independent resources.
 - **[Typing.io](https://typing.io/)** - a typing tutor/trainer for programmers in JavaScript, Ruby, C, C++, Java, PHP, Perl, Haskell, Scala, and more.
 - **[Exercism.io](http://exercism.io)** - practice problems for learning to code with real world feedback from other people on the same assignments.
 - **[Code Wars](http://www.codewars.com)** - practice coding through challenges.
+- **[HackerRank](https://www.hackerrank.com/** - practice coding challenges.
 - **[Project Euler](https://projecteuler.net/)** - "a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve."
 - **[Programmer Interview](http://www.programmerinterview.com/)** - "helps programmers successfully prepare for technical interviews."
 - **[Interview Cake](https://www.interviewcake.com/)** - "a study tool that preps software engineering candidates for coding interviews."
