@@ -107,6 +107,8 @@ If there is a company you particularly want to work at, check out their GitHub o
 
 **[Google Summer of Code](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)** is similar to Outreachy in offerring paid internships for working on OSS, but requires that you are a full or part time college student, and is open to all, not just under represented groups.
 
+# Building Your Digital Presence
+
 # Networking
 
 Networking is the best way to get your foot in the door. If you did CS at college or in a boot camp, you can use your school's network to find a job. If you're self taught, you're going to have to build your own. Checkout the [WWCodeNYC Community Resources](https://github.com/WomenWhoCodeNYC/Resources/blob/master/community-resources.md) page to find a list of global and local organizations.
