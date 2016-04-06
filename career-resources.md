@@ -116,8 +116,9 @@ Networking is the best way to get your foot in the door. If you did CS at colleg
 - Meetups are a good place to meet people, though many of the attendees may be just starting out and building their own networks. 
 - Work on an open source project and get to know developers that way.
 
+# Where Do I Find a Job?
 
-
+# Anonymous Thoughts on Jobs and Careers (Things Heard and Overheard)
 
 
 
