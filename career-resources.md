@@ -79,9 +79,9 @@ Interviews vary wildly, but most will involve some, or all of these steps:
 
 Make sure your code is somewhere potential employers can see it. If you're not on [GitHub](https://github.com) yet, sign up and [learn how to use it.](https://try.github.io/levels/1/challenges/1) If you're into web development, build a website that showcases some of your projects. If you haven't built much yet, try implimenting some of the algorithms mentioned above and pushing those to GitHub.
 
-# Contribute to Open Source
+**Contribute to Open Source**
 
-**Why you should work on OSS**  
+**Why?**  
 - You'll learn version control
 - You'll show you can work well with others
 - You'll learn best practices for your language/ this project
@@ -89,7 +89,7 @@ Make sure your code is somewhere potential employers can see it. If you're not o
 - You'll meet engineers who work for that company you really want to work for
 - You'll get code review so you can continue to improve
 
-**How to choose an OSS project to work on**
+**How to Choose an OSS Project**
 
 When chosing an OSS project, you'll want something that:
 
