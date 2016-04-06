@@ -118,8 +118,11 @@ Networking is the best way to get your foot in the door. If you did CS at colleg
 
 # Where Do I Find a Job?
 **The Muse**
+
 **Hired**
+
 **Planted**
+
 **LinkedIn Jobs Board**
 
 # Anonymous Thoughts on Jobs and Careers (Things Heard and Overheard)
