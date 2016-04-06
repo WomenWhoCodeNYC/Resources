@@ -117,6 +117,10 @@ Networking is the best way to get your foot in the door. If you did CS at colleg
 - Work on an open source project and get to know developers that way.
 
 # Where Do I Find a Job?
+**The Muse**
+**Hired**
+**Planted**
+**LinkedIn Jobs Board**
 
 # Anonymous Thoughts on Jobs and Careers (Things Heard and Overheard)
 
