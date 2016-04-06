@@ -75,7 +75,7 @@ Interviews vary wildly, but most will involve some, or all of these steps:
 **[Salary Negotiation](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)**
 
 
-# Portfolio
+# Building Your Portfolio
 
 Make sure your code is somewhere potential employers can see it. If you're not on [GitHub](https://github.com) yet, sign up and [learn how to use it.](https://try.github.io/levels/1/challenges/1) If you're into web development, build a website that showcases some of your projects. If you haven't built much yet, try implimenting some of the algorithms mentioned above and pushing those to GitHub.
 
@@ -99,7 +99,7 @@ When chosing an OSS project, you'll want something that:
 - Has good documentation for beginners
 - Has sufficient testing that you won't worry about breaking the build every time you make a pull request!
 
-For projects that fulfil this criteria, and which are also out to do good in the world, check out [Code Montage.](https://www.codemontage.com/)
+For projects that fulfill this criteria, and which are also out to do good in the world, check out [Code Montage.](https://www.codemontage.com/)
 
 If there is a company you particularly want to work at, check out their GitHub or company site to see if they have open source projects you can contribute to.
 
@@ -109,7 +109,7 @@ If there is a company you particularly want to work at, check out their GitHub o
 
 # Networking
 
-Networking is the best way to get your foot in the door. If you did CS at college or in a boot camp, you can use your schools network to find a job. If you're self taught, you're going to have to buid your own.
+Networking is the best way to get your foot in the door. If you did CS at college or in a boot camp, you can use your school's network to find a job. If you're self taught, you're going to have to build your own. Checkout the [WWCodeNYC Community Resources](https://github.com/WomenWhoCodeNYC/Resources/blob/master/community-resources.md) page to find a list of global and local organizations.
 - Ask your programmer friends and aquaintences if they know anyone that's hiring, or if they can forward you their recruiter spam.
 - Meetups are a good place to meet people, though many of the attendees may be just starting out and building their own networks. 
 - Work on an open source project and get to know developers that way.
