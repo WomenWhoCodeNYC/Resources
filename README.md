@@ -16,7 +16,7 @@ Usually consists of a server, application, and database.  The back-end stores in
 ### [Mobile Resources](mobile-resources.md)
 Pretty self-explanatory, these resources are for development on mobile devices.
 
-### [Job Hunting Resources](job-hunting-resources.md)
+### [Job Hunting Resources](career-resources.md)
 Resume tips, algorithms and data structures for interviewing, what CS interviews look like, why you should try OSS, networking. Good luck!
 
 ## Contributing
