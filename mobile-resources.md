@@ -37,6 +37,7 @@ To develop Android apps, you'll need Android Studio: https://developer.android.c
 4. Team Treehouse Android Track: https://teamtreehouse.com/tracks/android-development
 5. compile ‘android:best:1.1.1’(curated list of Android resources): https://medium.com/android-news/compile-android-best-1-0-0-5f8b470d0ad9#.p9xn5b6h1
 6. AndroidWeekly (newsletter): http://androidweekly.net/
+7. CodePath Android Guides (good for all levels): https://guides.codepath.com/android
 
 *Udacity course materials can be accessed for free without paying to enroll in the course.
 
