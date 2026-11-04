@@ -4,6 +4,7 @@
 - [Building a Resume](https://www.reddit.com/r/resumes/wiki/faq#wiki_building_a_resume)
 - Consider using a json resume to conveniently present your resume as text, pdf, html etc. You can easily [generate json here](http://registry.jsonresume.org/) and use either the online editor or the command line tool to try out different themes.
 - [Get feedback on your resume here](reddit.com/r/resumes)
+- [JobEmerge](https://www.jobemerge.work) - Freemium AI career copilot with a job-fit test, resume translation, and a Markdown resume editor.
 - [Realities Of Your Industry 101, or, What Employers Want](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 
 # Interview Prep
